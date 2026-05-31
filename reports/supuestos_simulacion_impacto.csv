@@ -1,0 +1,6 @@
+﻿supuesto,valor,comentario
+Costo anual de mantener inventario,12%,"Supuesto usado para estimar ahorro operativo por menor almacenamiento, seguros, manipulación y costo financiero."
+Reducción conservadora de sobrestock,25%,Escenario de baja intervención y menor riesgo operativo.
+Reducción moderada de sobrestock,40%,Escenario recomendado como meta inicial por equilibrio entre impacto y riesgo.
+Reducción agresiva de sobrestock,60%,"Escenario de intervención fuerte, requiere mayor control de demanda y reposición."
+Horizonte de evaluación,12 meses,Periodo usado para estimar impacto anual.
