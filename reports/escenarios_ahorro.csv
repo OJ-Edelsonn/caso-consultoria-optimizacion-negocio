@@ -1,0 +1,4 @@
+﻿escenario,reduccion_sobrestock_pct,ahorro_potencial,ahorro_sobre_ventas_pct
+Conservador,0.25,8595323.655,0.0092862854560693
+Moderado,0.4,13752517.848,0.014858056729710882
+Agresivo,0.6,20628776.771999996,0.022287085094566318

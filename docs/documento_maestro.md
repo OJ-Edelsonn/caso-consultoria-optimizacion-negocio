@@ -4,7 +4,7 @@
 
 Este proyecto desarrolla un caso de consultoria para optimizar decisiones de negocio en una empresa industrial peruana, usando analitica de ventas, inventario, costos y desempeno operativo.
 
-El caso principal se ubica en el sector cemento, inspirado en el contexto publico de UNACEM y el mercado peruano de materiales de construccion. A la vez, el enfoque se adapta a empresas industriales como Minsur o UNACEM porque trabaja problemas comunes: eficiencia operativa, control de inventario, costos, rotacion, cumplimiento de metas e indicadores de procesos.
+El caso principal se ubica en la industria cementera, inspirado en el contexto publico de UNACEM y el mercado peruano de materiales de construccion. A la vez, el enfoque se adapta a empresas industriales como Minsur o UNACEM porque trabaja problemas comunes: eficiencia operativa, control de inventario, costos, rotacion, cumplimiento de metas e indicadores de procesos.
 
 La narrativa de consultoria y transformacion digital conecta con empresas como Brainstorm/Brainstorming: diagnostico del negocio, mapa del problema, propuesta de solucion digital, impacto esperado y roadmap de implementacion.
 
@@ -312,9 +312,9 @@ La matriz completa esta en [fuentes_datos.md](fuentes_datos.md).
 | Fase 6 - GitHub | README final, capturas, instrucciones y version publica |
 | Fase 7 - Entrevista | Guion de explicacion, preguntas probables y respuestas |
 
-## 18. Flujo colaborativo
+## 18. Flujo 
 
-El proyecto se desarrollara por iteraciones. En cada fase se buscara que el autor pueda explicar:
+El proyecto se desarrollara por iteraciones. En cada fase explicara:
 
 - Que problema se resolvio.
 - Que datos se usaron.
@@ -322,7 +322,7 @@ El proyecto se desarrollara por iteraciones. En cada fase se buscara que el auto
 - Que resultado se obtuvo.
 - Como defenderia el analisis en entrevista.
 
-La participacion humana no sera solo revisar resultados: tambien se definiran supuestos, se validaran KPIs y se practicara la explicacion.
+Tambien se definiran supuestos, se validaran KPIs y se practicara la explicacion.
 
 ## 19. Estrategia GitHub
 

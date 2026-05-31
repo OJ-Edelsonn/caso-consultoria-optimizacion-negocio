@@ -1,0 +1,16 @@
+﻿producto,categoria,estado_catalogo,ventas_netas,margen_pct,clasificacion_rentabilidad,stock_valorizado,sobrestock_valorizado,sobrestock_pct,accion_sugerida
+Cemento Portland Tipo I Granel,Cemento granel,Activo,116311908.85,0.25893463762889657,Rentabilidad media,87544289.04,6340462.83,0.07242577328034464,Ajustar planificación sin afectar disponibilidad
+Cemento Tipo V Granel,Cemento granel,Observar,43753520.23,0.2255568015584103,Rentabilidad media,48102819.84,5712831.84,0.11876293030225812,Reducir compras y monitorear demanda
+Cemento Alta Resistencia Granel,Cemento granel,Activo,76293382.62,0.24957996035960792,Rentabilidad media,49921665.9,2658787.8,0.0532591962240587,Mantener seguimiento
+Cemento Premium Acabados 42.5kg,Cemento embolsado,Observar,21641587.74,0.22549481205485714,Rentabilidad media,21063647.38,2123327.38,0.10080530411917672,Reducir compras y monitorear demanda
+Concreto autocompactante,Concreto premezclado,Observar,12934334.13,0.17059238286431988,Baja rentabilidad,15493165.6,2118622.25,0.13674560155737314,"Revisar precio, costo y política de reposición"
+Cemento blanco decorativo,Cemento embolsado,Descontinuar,3920752.57,0.13079480299875185,Baja rentabilidad,6541918.2,2100882.96,0.3211417348507965,Liquidar inventario y retirar del catálogo
+Cemento Portland IP Granel,Cemento granel,Activo,124507893.19,0.2594151788490318,Rentabilidad media,79996006.9,2029643.3,0.02537180765206419,Ajustar planificación sin afectar disponibilidad
+Cemento Economico 42.5kg,Cemento embolsado,Observar,24146136.24,0.15057768182293668,Baja rentabilidad,25595561.72,1959803.47,0.07656809768189764,"Revisar precio, costo y política de reposición"
+Cemento Antisalitre 42.5kg,Cemento embolsado,Activo,43741726.46,0.26133247942221255,Rentabilidad media,31974208.39,1924704.3,0.060195526235512845,Ajustar planificación sin afectar disponibilidad
+Cemento Alta Resistencia 42.5kg,Cemento embolsado,Activo,55841693.4,0.26240873830663597,Rentabilidad media,38097225.06,1228220.99,0.03223911946514878,Ajustar planificación sin afectar disponibilidad
+Concreto f'c 210 kg/cm2,Concreto premezclado,Activo,36493052.33,0.22932922695315688,Rentabilidad media,24911888.63,919734.22,0.0369194898732975,Mantener seguimiento
+Concreto f'c 175 kg/cm2,Concreto premezclado,Activo,22423425.83,0.22766217208300685,Rentabilidad media,16487136.08,651033.22,0.03948734436599616,Mantener seguimiento
+Concreto f'c 350 kg/cm2,Concreto premezclado,Activo,28939978.93,0.2203740951376014,Rentabilidad media,21183449.76,576637.28,0.027221122458007046,Mantener seguimiento
+Concreto bombeable,Concreto premezclado,Activo,23759806.35,0.21920980934257486,Rentabilidad media,17424967.56,511428.06,0.029350301987018452,Mantener seguimiento
+Cemento Portland IP 42.5kg,Cemento embolsado,Activo,66135589.51,0.26978942354936003,Rentabilidad media,42985692.12,447769.56,0.010416711652565571,Ajustar planificación sin afectar disponibilidad
