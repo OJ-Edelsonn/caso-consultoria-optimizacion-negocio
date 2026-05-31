@@ -1,0 +1,6 @@
+almacen_id,almacen,zona_id,capacidad_ton_equiv
+ALM01,CD Lima,ZON01,42000
+ALM02,CD Callao,ZON02,25000
+ALM03,CD Norte,ZON03,27000
+ALM04,CD Sur,ZON04,24000
+ALM05,CD Centro,ZON05,22000

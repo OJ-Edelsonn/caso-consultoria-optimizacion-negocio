@@ -1,0 +1,9 @@
+kpi,formula,interpretacion
+Ventas netas,sum(ingreso_neto),Ingresos despues de descuentos
+Margen bruto,sum(margen_bruto),Rentabilidad bruta generada
+Margen bruto pct,margen_bruto / ingreso_neto,Rentabilidad relativa
+Sobrestock valorizado,sum(sobrestock_valorizado),Capital inmovilizado por exceso
+Stock critico,stock_unidades < stock_seguridad,Riesgo de quiebre de stock
+Cumplimiento ventas,ventas_reales / meta_ventas,Avance contra meta comercial
+Utilizacion capacidad,produccion_real / capacidad_instalada,Uso de capacidad productiva
+Ahorro potencial,sobrestock_valorizado * tasa_reduccion,Impacto economico estimado

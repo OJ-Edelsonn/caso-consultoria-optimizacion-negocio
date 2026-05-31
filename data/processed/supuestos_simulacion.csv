@@ -1,0 +1,10 @@
+supuesto,valor
+Periodo,Enero 2023 a diciembre 2025
+Empresa,Cementos Andinos del Sur S.A.C.
+Naturaleza de datos operativos,Simulados con reglas de negocio
+Estacionalidad,Mayor demanda relativa entre marzo-junio y septiembre-noviembre
+Canales,"Distribuidores, constructoras, retail ferretero y venta directa industrial"
+Inventario,"Incluye casos normales, criticos y sobrestock para analisis"
+Costos,Costos unitarios estimados por categoria y producto
+Moneda,Soles peruanos PEN
+Semilla aleatoria,20260530

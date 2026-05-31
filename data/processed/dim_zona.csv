@@ -1,0 +1,9 @@
+zona_id,zona,macroregion,peso_demanda
+ZON01,Lima Metropolitana,Centro,1.45
+ZON02,Callao,Centro,0.72
+ZON03,Norte,Norte,0.95
+ZON04,Sur,Sur,0.88
+ZON05,Centro Andino,Centro,0.66
+ZON06,Ica,Sur Chico,0.58
+ZON07,Arequipa,Sur,0.8
+ZON08,Cusco y Oriente,Oriente,0.54

@@ -1,0 +1,5 @@
+canal_id,canal,tipo_cliente,peso_demanda,descuento_base_pct
+CAN01,Distribuidores,B2B,0.38,0.055
+CAN02,Constructoras,B2B,0.3,0.04
+CAN03,Retail ferretero,B2B/B2C,0.22,0.025
+CAN04,Venta directa industrial,B2B,0.1,0.035

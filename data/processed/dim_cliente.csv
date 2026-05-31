@@ -1,0 +1,81 @@
+cliente_id,cliente,segmento,canal_preferente_id,zona_id,tamano_cliente
+CLI001,Distribuidor regional 01,Distribuidor regional,CAN01,ZON01,Mediano
+CLI002,Distribuidor regional 02,Distribuidor regional,CAN01,ZON07,Pequeno
+CLI003,Distribuidor regional 03,Distribuidor regional,CAN01,ZON03,Mediano
+CLI004,Distribuidor regional 04,Distribuidor regional,CAN01,ZON03,Grande
+CLI005,Distribuidor regional 05,Distribuidor regional,CAN01,ZON01,Mediano
+CLI006,Distribuidor regional 06,Distribuidor regional,CAN01,ZON01,Mediano
+CLI007,Distribuidor regional 07,Distribuidor regional,CAN01,ZON03,Grande
+CLI008,Distribuidor regional 08,Distribuidor regional,CAN01,ZON02,Mediano
+CLI009,Distribuidor regional 09,Distribuidor regional,CAN01,ZON01,Mediano
+CLI010,Distribuidor regional 10,Distribuidor regional,CAN01,ZON07,Grande
+CLI011,Distribuidor regional 11,Distribuidor regional,CAN01,ZON02,Grande
+CLI012,Distribuidor regional 12,Distribuidor regional,CAN01,ZON01,Mediano
+CLI013,Distribuidor regional 13,Distribuidor regional,CAN01,ZON07,Mediano
+CLI014,Distribuidor regional 14,Distribuidor regional,CAN01,ZON05,Mediano
+CLI015,Distribuidor regional 15,Distribuidor regional,CAN01,ZON03,Mediano
+CLI016,Distribuidor regional 16,Distribuidor regional,CAN01,ZON01,Grande
+CLI017,Distribuidor regional 17,Distribuidor regional,CAN01,ZON08,Grande
+CLI018,Distribuidor regional 18,Distribuidor regional,CAN01,ZON04,Pequeno
+CLI019,Distribuidor regional 19,Distribuidor regional,CAN01,ZON01,Pequeno
+CLI020,Distribuidor regional 20,Distribuidor regional,CAN01,ZON01,Pequeno
+CLI021,Distribuidor regional 21,Distribuidor regional,CAN01,ZON02,Mediano
+CLI022,Distribuidor regional 22,Distribuidor regional,CAN01,ZON08,Mediano
+CLI023,Distribuidor regional 23,Distribuidor regional,CAN01,ZON01,Mediano
+CLI024,Distribuidor regional 24,Distribuidor regional,CAN01,ZON01,Mediano
+CLI025,Distribuidor regional 25,Distribuidor regional,CAN01,ZON01,Grande
+CLI026,Distribuidor regional 26,Distribuidor regional,CAN01,ZON02,Pequeno
+CLI027,Distribuidor regional 27,Distribuidor regional,CAN01,ZON03,Mediano
+CLI028,Distribuidor regional 28,Distribuidor regional,CAN01,ZON06,Pequeno
+CLI029,Distribuidor regional 29,Distribuidor regional,CAN01,ZON01,Mediano
+CLI030,Distribuidor regional 30,Distribuidor regional,CAN01,ZON01,Pequeno
+CLI031,Constructora 01,Constructora,CAN02,ZON05,Mediano
+CLI032,Constructora 02,Constructora,CAN02,ZON01,Grande
+CLI033,Constructora 03,Constructora,CAN02,ZON05,Grande
+CLI034,Constructora 04,Constructora,CAN02,ZON03,Mediano
+CLI035,Constructora 05,Constructora,CAN02,ZON06,Grande
+CLI036,Constructora 06,Constructora,CAN02,ZON08,Mediano
+CLI037,Constructora 07,Constructora,CAN02,ZON02,Mediano
+CLI038,Constructora 08,Constructora,CAN02,ZON04,Mediano
+CLI039,Constructora 09,Constructora,CAN02,ZON08,Grande
+CLI040,Constructora 10,Constructora,CAN02,ZON04,Mediano
+CLI041,Constructora 11,Constructora,CAN02,ZON04,Grande
+CLI042,Constructora 12,Constructora,CAN02,ZON02,Mediano
+CLI043,Constructora 13,Constructora,CAN02,ZON08,Pequeno
+CLI044,Constructora 14,Constructora,CAN02,ZON07,Pequeno
+CLI045,Constructora 15,Constructora,CAN02,ZON02,Pequeno
+CLI046,Constructora 16,Constructora,CAN02,ZON08,Pequeno
+CLI047,Constructora 17,Constructora,CAN02,ZON03,Grande
+CLI048,Constructora 18,Constructora,CAN02,ZON05,Mediano
+CLI049,Constructora 19,Constructora,CAN02,ZON06,Pequeno
+CLI050,Constructora 20,Constructora,CAN02,ZON01,Mediano
+CLI051,Constructora 21,Constructora,CAN02,ZON01,Pequeno
+CLI052,Constructora 22,Constructora,CAN02,ZON04,Pequeno
+CLI053,Ferreteria 01,Ferreteria,CAN03,ZON04,Grande
+CLI054,Ferreteria 02,Ferreteria,CAN03,ZON01,Grande
+CLI055,Ferreteria 03,Ferreteria,CAN03,ZON04,Pequeno
+CLI056,Ferreteria 04,Ferreteria,CAN03,ZON03,Pequeno
+CLI057,Ferreteria 05,Ferreteria,CAN03,ZON01,Mediano
+CLI058,Ferreteria 06,Ferreteria,CAN03,ZON07,Mediano
+CLI059,Ferreteria 07,Ferreteria,CAN03,ZON03,Pequeno
+CLI060,Ferreteria 08,Ferreteria,CAN03,ZON05,Pequeno
+CLI061,Ferreteria 09,Ferreteria,CAN03,ZON03,Mediano
+CLI062,Ferreteria 10,Ferreteria,CAN03,ZON07,Mediano
+CLI063,Ferreteria 11,Ferreteria,CAN03,ZON01,Pequeno
+CLI064,Ferreteria 12,Ferreteria,CAN03,ZON08,Mediano
+CLI065,Ferreteria 13,Ferreteria,CAN03,ZON08,Grande
+CLI066,Ferreteria 14,Ferreteria,CAN03,ZON03,Pequeno
+CLI067,Ferreteria 15,Ferreteria,CAN03,ZON08,Mediano
+CLI068,Ferreteria 16,Ferreteria,CAN03,ZON01,Grande
+CLI069,Ferreteria 17,Ferreteria,CAN03,ZON02,Mediano
+CLI070,Ferreteria 18,Ferreteria,CAN03,ZON01,Pequeno
+CLI071,Ferreteria 19,Ferreteria,CAN03,ZON02,Grande
+CLI072,Ferreteria 20,Ferreteria,CAN03,ZON01,Grande
+CLI073,Industrial 01,Industrial,CAN04,ZON06,Mediano
+CLI074,Industrial 02,Industrial,CAN04,ZON04,Grande
+CLI075,Industrial 03,Industrial,CAN04,ZON05,Mediano
+CLI076,Industrial 04,Industrial,CAN04,ZON07,Grande
+CLI077,Industrial 05,Industrial,CAN04,ZON03,Pequeno
+CLI078,Industrial 06,Industrial,CAN04,ZON03,Pequeno
+CLI079,Industrial 07,Industrial,CAN04,ZON04,Pequeno
+CLI080,Industrial 08,Industrial,CAN04,ZON02,Pequeno

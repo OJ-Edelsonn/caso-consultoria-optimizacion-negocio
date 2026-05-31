@@ -1,0 +1,4 @@
+planta_id,planta,zona_id,capacidad_mensual_ton
+PLA01,Planta Lima Sur,ZON01,135000
+PLA02,Planta Sierra Central,ZON05,88000
+PLA03,Planta Costa Norte,ZON03,76000

@@ -1,0 +1,13 @@
+proveedor_id,proveedor,categoria_abastecimiento,pais
+PROV001,Canteras del Centro,Clinker y caliza,Peru
+PROV002,Transportes Andinos,Transporte,Peru
+PROV003,Energia Industrial Sur,Energia,Peru
+PROV004,Suministros Mineros SAC,Repuestos,Peru
+PROV005,Aditivos Tecnicos LATAM,Aditivos,Chile
+PROV006,Envases Industriales Peru,Bolsas y empaques,Peru
+PROV007,Servicios Portuarios Callao,Logistica,Peru
+PROV008,Maquinarias y Fajas SAC,Mantenimiento,Peru
+PROV009,Quimicos del Pacifico,Insumos quimicos,Peru
+PROV010,Agregados del Sur,Agregados,Peru
+PROV011,Control y Automatizacion SAC,Tecnologia industrial,Peru
+PROV012,Importadora Cement Tech,Repuestos importados,Mexico

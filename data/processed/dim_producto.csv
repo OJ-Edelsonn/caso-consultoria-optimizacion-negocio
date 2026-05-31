@@ -1,0 +1,33 @@
+producto_id,producto,categoria,subcategoria,unidad_medida,precio_lista,costo_estandar,margen_objetivo_pct,estado_catalogo,peso_demanda
+PROD001,Cemento Portland Tipo I 42.5kg,Cemento embolsado,Portland,bolsa_42_5kg,32.0,22.4,0.3,Activo,1.35
+PROD002,Cemento Portland IP 42.5kg,Cemento embolsado,Puzolanico,bolsa_42_5kg,30.5,21.0,0.3115,Activo,1.5
+PROD003,Cemento Alta Resistencia 42.5kg,Cemento embolsado,Especial,bolsa_42_5kg,37.0,25.7,0.3054,Activo,1.05
+PROD004,Cemento Antisalitre 42.5kg,Cemento embolsado,Especial,bolsa_42_5kg,36.5,25.4,0.3041,Activo,0.88
+PROD005,Cemento Tipo V 42.5kg,Cemento embolsado,Especial,bolsa_42_5kg,38.0,27.1,0.2868,Activo,0.7
+PROD006,Cemento Albanileria 42.5kg,Cemento embolsado,Albanileria,bolsa_42_5kg,28.0,19.5,0.3036,Activo,0.92
+PROD007,Cemento Premium Acabados 42.5kg,Cemento embolsado,Acabados,bolsa_42_5kg,34.0,24.8,0.2706,Observar,0.5
+PROD008,Cemento Economico 42.5kg,Cemento embolsado,Economico,bolsa_42_5kg,26.5,21.2,0.2,Observar,0.72
+PROD009,Cemento Portland Tipo I Granel,Cemento granel,Portland,tonelada,355.0,247.0,0.3042,Activo,1.24
+PROD010,Cemento Portland IP Granel,Cemento granel,Puzolanico,tonelada,338.0,235.0,0.3047,Activo,1.3
+PROD011,Cemento Alta Resistencia Granel,Cemento granel,Especial,tonelada,405.0,285.0,0.2963,Activo,0.76
+PROD012,Cemento Tipo V Granel,Cemento granel,Especial,tonelada,418.0,304.0,0.2727,Observar,0.48
+PROD013,Concreto f'c 175 kg/cm2,Concreto premezclado,Estandar,m3,245.0,178.0,0.2735,Activo,0.82
+PROD014,Concreto f'c 210 kg/cm2,Concreto premezclado,Estandar,m3,275.0,199.0,0.2764,Activo,1.15
+PROD015,Concreto f'c 280 kg/cm2,Concreto premezclado,Estructural,m3,318.0,228.0,0.283,Activo,1.05
+PROD016,Concreto f'c 350 kg/cm2,Concreto premezclado,Estructural,m3,372.0,272.0,0.2688,Activo,0.72
+PROD017,Concreto bombeable,Concreto premezclado,Especial,m3,390.0,286.0,0.2667,Activo,0.6
+PROD018,Concreto autocompactante,Concreto premezclado,Especial,m3,455.0,355.0,0.2198,Observar,0.3
+PROD019,Arena gruesa lavada,Agregados,Arena,tonelada,48.0,31.0,0.3542,Activo,0.78
+PROD020,Arena fina zarandeada,Agregados,Arena,tonelada,43.0,28.0,0.3488,Activo,0.66
+PROD021,Piedra chancada 1/2,Agregados,Piedra,tonelada,62.0,41.0,0.3387,Activo,0.74
+PROD022,Piedra chancada 3/4,Agregados,Piedra,tonelada,59.0,39.0,0.339,Activo,0.7
+PROD023,Hormigon seleccionado,Agregados,Hormigon,tonelada,51.0,34.0,0.3333,Activo,0.52
+PROD024,Base granular afirmada,Agregados,Base,tonelada,46.0,33.0,0.2826,Observar,0.38
+PROD025,Cal industrial hidratada,Complementarios,Cal,bolsa_25kg,24.0,17.5,0.2708,Activo,0.36
+PROD026,Mortero seco embolsado,Complementarios,Mortero,bolsa_40kg,29.0,22.0,0.2414,Activo,0.42
+PROD027,Aditivo plastificante,Complementarios,Aditivo,galon,42.0,30.5,0.2738,Observar,0.22
+PROD028,Aditivo impermeabilizante,Complementarios,Aditivo,galon,48.0,36.0,0.25,Observar,0.18
+PROD029,Sellador para concreto,Complementarios,Acabados,galon,55.0,43.0,0.2182,Descontinuar,0.12
+PROD030,Curador quimico,Complementarios,Acabados,galon,52.0,39.0,0.25,Observar,0.16
+PROD031,Microsilice industrial,Complementarios,Insumo,bolsa_20kg,96.0,78.0,0.1875,Observar,0.1
+PROD032,Cemento blanco decorativo,Cemento embolsado,Decorativo,bolsa_25kg,44.0,36.0,0.1818,Descontinuar,0.08
